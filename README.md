@@ -22,6 +22,4 @@ This ensures:
 - AI always wins or draws if played optimally
 - AI never loses
 
-![image](https://github.com/user-attachments/assets/cb54a2f5-4697-4ac3-9f35-e30000c0662b)
-
 ![image](https://github.com/user-attachments/assets/3bd05f7c-d855-4c4f-97a7-2fef389f4e62)
