@@ -1,4 +1,4 @@
-# Tic-Tac-Toe with Minimax AI (Pygame + NumPy)
+# Tic-Tac-Toe with Minimax (Pygame + NumPy)
 
 ## Overview
 This project implements a **Tic-Tac-Toe game** with a graphical interface built using **Pygame**, where the computer opponent plays **perfectly** using the **Minimax algorithm**.  
