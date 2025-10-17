@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements a **Tic-Tac-Toe game** with a graphical interface built using **Pygame**, where the computer opponent plays **perfectly** using the **Minimax algorithm**.  
-The AI anticipates every possible move, ensuring that it **never loses** — it either wins or forces a draw.  
+The AI anticipates every possible move, ensuring that it **never loses** it either wins or forces a draw.  
 
 The project demonstrates the integration of **algorithmic game theory** with **interactive graphics**, blending logic and user experience into a clean Python implementation.
 
